@@ -22,3 +22,7 @@ To handle multiple users, multithreading is used. When a client connects, the se
 
 The client-side interface is typically a simple command-line interface (CLI), allowing users to type messages and see messages from others. Each client connects to the server using an IP address and port number. Messages typed by the user are sent to the server, which then forwards them to every connected client.
 
+OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/948e9707-2ef6-4344-9828-205f4ad349cc)
+
