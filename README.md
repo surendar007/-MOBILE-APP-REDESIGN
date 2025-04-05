@@ -2,16 +2,15 @@
 
 COMPANY NAME : CODTECH IT SOLUTIONS
 
-NAME : HARINIKRISHNA
+NAME : SURENDAR
 
-INTERN ID :CT04WU169
+INTERN ID :CT04WV112
 
-DOMAIN NAME : JAVA PROGRAMMING
+DOMAIN NAME : UI/UX DESIGN
 
 DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTHOSH KUMAR
-
 DESCRIPTION : A client-server chat application is a network-based program that enables multiple users to communicate with each other through a central server. This project uses Java sockets and multithreading to establish a real-time chat system where multiple clients can connect to the server and exchange messages. The main goal is to demonstrate core networking concepts in Java and efficient use of multithreading to handle simultaneous client connections.
 
 In this application, the server is the central point of communication. It listens for incoming connections from multiple clients. Each client connects to the server via a socket, and once connected, the server creates a dedicated thread for each client to handle communication individually. This ensures that all clients can send and receive messages concurrently without interfering with one another.
